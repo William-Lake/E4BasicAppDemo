@@ -14,7 +14,7 @@
 
 ----------
 ### Motivation
-I'm relatively new to Computer Programming and as part of my work have been learning more about building software with the Eclipse E4 Rich Client Platform. As I learn more, I'd like to share what I've learned with others who may also have the desire to work with E4. Instead of lessons however, I prefer hands on examples.
+I'm relatively new to Computer Programming and as part of my work have been learning more about building software with the Eclipse E4 Rich Client Platform. As I continue, I'd like to share what I've learned with others who may also have the desire to work with E4. Instead of lessons however, I prefer hands on examples.
 
 
 ----------
