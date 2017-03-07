@@ -3,13 +3,13 @@
 
 ----------
 #### Main Page
-![Main Page](https://raw.githubusercontent.com/William-Lake/E4BasicAppDemo/master/SamplePhotos/MainPage.PNG)
+![Main Page](/SamplePhotos/MainPage.PNG)
 
 #### Label when Clicked
 ![Wizard Page 1](/SamplePhotos/TextOptionOne.PNG)
 
 #### Label when Clicked again
-![Wizard Page 2A](https://raw.githubusercontent.com/William-Lake/E4BasicAppDemo/master/SamplePhotos/TextOptionTwo.PNG)
+![Wizard Page 2A](/SamplePhotos/TextOptionTwo.PNG)
 
 
 ----------
